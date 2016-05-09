@@ -7,7 +7,7 @@ public class InorderTraversalNoRecursion {
 		Stack<Node> stack = new Stack<Node>();
 		Node temp;
 		if(node == null){
-			//System.out.println(node.val);
+			//pass
 		}
 		else{
 			stack.push(node);
